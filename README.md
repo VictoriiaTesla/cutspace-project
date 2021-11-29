@@ -1,1 +1,2 @@
-# cutspace-project
+# cutspace-project# cutspace-project
+Работа с графическим редактором Figma, верстка сайта по макету. Д/З применение новых знаний, проект Cutspace, адаптив под разные виды экранов.
